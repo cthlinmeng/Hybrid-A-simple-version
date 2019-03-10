@@ -1,0 +1,4 @@
+﻿  Hybrid_A_star.cpp
+d:\c++\hybrid_a_star\hybrid_a_star\hybrid_a_star.cpp(54): warning C4018: '<': signed/unsigned mismatch
+d:\c++\hybrid_a_star\hybrid_a_star\hybrid_a_star.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  Hybrid_A_star.vcxproj -> D:\C++\Hybrid_A_star\Debug\Hybrid_A_star.exe
