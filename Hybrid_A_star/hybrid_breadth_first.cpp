@@ -27,7 +27,7 @@ bool HBF::compare_maze_s(const HBF::maze_s & lhs, const HBF::maze_s & rhs) {
 }
 
 double HBF::heuristic(double x, double y, vector<int> goal) {
-	return fabs(y - goal[0]) + fabs(x - goal[1]); //两个直线距离dx+dy
+	return fabs(x - goal[0]) + fabs(y - goal[1]); //两个直线距离dx+dy
 }
 
 int HBF::theta_to_stack_number(double theta) {
